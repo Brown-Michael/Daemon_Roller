@@ -7,7 +7,7 @@ intents.message_content = True  # Enable reading message content
 client = discord.Client(intents=intents)
 
 # Replace with your bot's token from Discord Developer Portal
-TOKEN = 'MTI4OTkzNjExMjkyMzQ0NzM2OA.GY8LVh.hTbN7Kh7XJdZcus61NPjXnHKjBlgRpBO8FXmc8' 
+TOKEN = 'MTI4OTkzNjExMjkyMzQ0NzM2OA.GGdnM3.C3UBXIOGm7EEu2wUb5ettgm7dSADkD4LCY3NF0' 
 
 # Function to calculate the attack and defense result
 def calculate_attack_result(active_percentage, passive_percentage):
